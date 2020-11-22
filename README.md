@@ -1,16 +1,24 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-<!--
-**brunocamposal/brunocamposal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```javascript
+const about_me = {
+    name: "Bruno Henrique Campos Alves",
+    age: 20,
+    occupation: "Full Stack Software Engineering Student at Kenzie Academy Brasil", 
+    code: ["Javascript", "React", "Python", "HTML", "CSS", "Python"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        frontEnd: {
+            react: ["semantic ui", "redux", "thunk"]
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            python: ["flask"]
+        },
+    },
+    currentFocus: "Programming using Python",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
