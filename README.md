@@ -10,7 +10,7 @@ const about_me = {
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
-            react: ["semantic ui", "redux", "thunk"]
+            react: ["semantic ui", "redux", "thunk"],
             css: ["bootstrap"]
         },
         backEnd: {
