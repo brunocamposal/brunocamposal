@@ -6,7 +6,7 @@ const about_me = {
     name: "Bruno Henrique Campos Alves",
     age: 20,
     occupation: "Full Stack Software Engineering Student at Kenzie Academy Brasil", 
-    code: ["Javascript", "React", "Python", "HTML", "CSS", "Python"],
+    code: ["Javascript", "React", "Python", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
